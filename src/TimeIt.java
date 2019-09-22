@@ -11,3 +11,6 @@ public class TimeIt {
 		}
 	}
 }
+
+
+// Copyright (c) jelenam86, 2019

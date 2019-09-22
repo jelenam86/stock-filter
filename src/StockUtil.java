@@ -19,6 +19,7 @@ public class StockUtil {
 
 	static Map<String, Double> prices = new HashMap<String, Double>() {
 		{
+
 			put("AMD", 3.28);
 			put("HPQ", 35.92);
 			put("IBM", 189.36);
@@ -44,3 +45,6 @@ public class StockUtil {
 		}
 	};
 }
+
+
+// Copyright (c) jelenam86, 2019

@@ -8,7 +8,10 @@ public class StockInfo {
 		price = thePrice;
 	}
 
+	@Override
 	public String toString() {
-		return ticker + " " + price + ", ";
+		return ticker + " " + price + ". ";
 	}
 }
+
+// Copyright (c) jelenam86, 2019
